@@ -2,6 +2,6 @@
 
 # Hi there 👋🏻, I'm Prakriti!
 
-Welcome to my corner of github. I'm a developer who loves learning by building. 
+Welcome to my corner of github.
 
 When I'm not coding, you'll usually find me running, swimming, practising yoga, hiking or reading🌱
